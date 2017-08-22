@@ -11,6 +11,7 @@ My personal Vim configuration.
 * NERDTree
 * Git Gutter
 * Fugitive
+* Supertab
 
 ### Language Specific
 
