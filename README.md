@@ -10,6 +10,7 @@ My personal Vim configuration.
 * Lightline
 * NERDTree
 * Git Gutter
+* Fugitive
 
 ### Language Specific
 
